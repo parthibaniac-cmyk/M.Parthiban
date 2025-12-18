@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Shield NIDS",
+  "description": "A high-performance Network Intrusion Detection System (NIDS) dashboard that analyzes traffic logs, detects malicious patterns using heuristics, and leverages Gemini AI for deep threat analysis and mitigation recommendations.",
+  "requestFramePermissions": []
+}
